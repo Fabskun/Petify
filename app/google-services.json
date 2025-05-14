@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251138324609",
+    "project_id": "petifyapp-63e48",
+    "storage_bucket": "petifyapp-63e48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251138324609:android:f80a1ed8df78e517a4f580",
+        "android_client_info": {
+          "package_name": "com.example.petify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfCgEeaUrtpZR08FgPfWc1B0OArfx2sk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
